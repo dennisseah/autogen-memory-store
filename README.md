@@ -1,4 +1,4 @@
-# Auogen Memory Store
+# Autogen Memory Store
 
 This is a sample project that demonstrates how to use autogen's `save_state` and `load_state` functions to save and load the state of a Python object. It uses a custom memory store that implements the `MemoryStore` interface.
 
